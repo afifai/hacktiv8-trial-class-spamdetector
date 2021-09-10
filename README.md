@@ -1,4 +1,5 @@
-# Covid Free-Trial Class
+# Spam SMS Detector using Machine Learning
+## Hacktiv8 Data Science Free Trial Class
 
 Repositori ini merupakan material untuk training free trial data science class by [Hacktiv8](http://hacktiv8.com).
 
